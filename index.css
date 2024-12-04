@@ -1,0 +1,19 @@
+.main{
+    /* border: 6px solid black; */
+    text-align: center;
+    /* margin: 10px; */
+
+}
+.a,.b,.c,.d{
+    width: 400px;
+    /* border: 6px solid black; */
+    display: inline-block;
+    text-align: center;
+    margin: 8px;
+    vertical-align: top;
+
+
+}
+img{
+    width: 100%;
+}
